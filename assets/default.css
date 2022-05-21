@@ -20,13 +20,13 @@ body {
 }
 
 header {
-    background-image: linear-gradient(to bottom, var(--cor3), var(--cor4));
     min-height: 140px;
     max-width: 1050px;
     text-align: center;
     margin: auto;
     padding-top: 37px;
     font-size: 1.4em;
+    background: linear-gradient(0deg, var(--cor4),var(--cor3),var(--cor4));
 }
 
 header > h1 {
